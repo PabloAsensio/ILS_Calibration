@@ -1,0 +1,85 @@
+#SoaySDR - HackRF One ----
+https://github.com/pothosware/SoapySDR/wiki/Cpp_API_Example
+https://github.com/pothosware/SoapySDR/wiki/BuildGuide#ubuntu
+https://github.com/pothosware/SoapySDR/wiki/BuildGuide
+https://github.com/pothosware/SoapyHackRF/wiki#building-soapy-hack-rf
+https://github.com/pothosware/SoapyHackRF/wiki
+
+
+# Only HackRF One ----
+https://github.com/mossmann/hackrf/wiki
+https://github.com/mossmann/hackrf/wiki/libHackRF-API
+https://github.com/mossmann/hackrf/wiki/Operating-System-Tips
+
+
+# C++ ----
+https://stackoverflow.com/questions/12290451/access-extern-variable-in-c-from-another-file
+https://stackoverflow.com/questions/3627941/global-variable-within-multiple-files
+
+
+# FFT ----
+http://www.fftw.org/
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.fft.fftfreq.html
+
+# ARDUCOPTER SITL ----
+https://github.com/ArduPilot/ardupilot/blob/master/BUILD.md
+
+# DRONEKIT C++ (MavROS) ----
+https://gitter.im/ArduPilot/MAVProxy?at=5819ab4027c3e02625f13aa1
+(MavROS)
+https://gitter.im/mavlink/mavros?at=58c42966de504908227795b2
+https://github.com/mavlink/mavros/blob/master/mavros/README.md#source-installation
+https://github.com/mavlink/mavros/tree/master/mavros (instalacion)
+https://dev.px4.io/v1.9.0/en/ros/mavros_installation.html
+
+# MAVSDK ----
+https://mavsdk.mavlink.io/develop/en/guide/telemetry.html
+
+# TESTEAR MAVSDK ----
+https://github.com/mavlink/MAVSDK/issues/811
+https://mavsdk.mavlink.io/develop/en/contributing/test.html
+https://dev.px4.io/master/en/simulation/gazebo.html
+https://dev.px4.io/v1.9.0/en/simulation/
+https://dev.px4.io/master/en/setup/dev_env_linux_ubuntu.html#sim_nuttx (instalacion)
+
+# BUILDING PX4 ----
+https://dev.px4.io/v1.9.0/en/setup/building_px4.html (BUILDING PX4)
+https://dev.px4.io/v1.9.0/en/setup/dev_env_linux.html
+
+# SITL_GAZEBO ----
+https://github.com/PX4/sitl_gazebo
+
+# MAVLINK EXPLANATION ----
+https://ardupilot.org/dev/docs/mavlink-commands.html
+
+# MQTT ----
+https://github.com/eclipse/paho.mqtt.cpp
+https://www.eclipse.org/paho/clients/c/embedded/
+https://github.com/mqtt/mqtt.github.io/wiki/libraries
+http://mosquitto.org/
+http://mosquitto.org/download/
+https://mosquitto.org/blog/2013/01/mosquitto-debian-repository/ (debian)
+
+#MQTT DOC ----
+https://www.eclipse.org/paho/files/cppdoc/classmqtt_1_1async__client.html
+
+#MOSQUITTO ----
+https://github.com/eclipse/mosquitto
+
+#MOSQUITTOPP ----
+https://github.com/eclipse/mosquitto/tree/master/lib/cpp
+
+#MOSQUITTO INFO ----
+https://mosquitto.org/man/mqtt-7.html
+http://www.steves-internet-guide.com/mqtt-publish-subscribe/
+http://www.steves-internet-guide.com/mosquitto_pub-sub-clients/ (publish json data)
+
+# ILS ----
+https://en.wikipedia.org/wiki/Instrument_landing_system_localizer
+
+
+# MAVLINK EXAMPLE ----
+https://github.com/BenbenIO/simple-Mavlink-C-rover
+https://mavlink.io/en/mavgen_c/example_c_udp.html
+
+https://mavlink.io/en/mavgen_python/
